@@ -36,3 +36,4 @@ You can push this project to GitHub as-is after adding your own repository detai
 
 <img width="1919" height="980" alt="Screenshot 2026-07-19 143504" src="https://github.com/user-attachments/assets/71f5ee85-7e85-414f-8ffc-b4e735681fb2" />
 
+Note: Any example YouTube links or content shown in this project are used only for demonstration purposes. I do not claim ownership or credit for them.
